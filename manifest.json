@@ -1,0 +1,14 @@
+{
+  "manifest_version": 1,
+  "launcher": {
+    "version": "0",
+    "windows": {
+      "url": "",
+      "sha256": "",
+      "size_bytes": 0
+    },
+    "notes": ""
+  },
+  "game_builds": []
+}
+
