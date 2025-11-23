@@ -1,11 +1,11 @@
 {
   "manifest_version": 1,
   "launcher": {
-    "version": "13",
+    "version": "14",
     "windows": {
-      "url": "https://github.com/arikdcode/maximum_security_dist/releases/download/13/MaximumSecurityLauncher.exe",
-      "sha256": "80fa1b7f6a39eb7e2837220912ac4be21c2a6d7c301d92b636416fd47e4a9049",
-      "size_bytes": 71619750
+      "url": "https://github.com/arikdcode/maximum_security_dist/releases/download/14/MaximumSecurityLauncher.exe",
+      "sha256": "14720d8c3b1a73350ab948e9f56be1897843bec5f73fa3c4486c493f4b6026c5",
+      "size_bytes": 71620268
     },
     "notes": ""
   },
