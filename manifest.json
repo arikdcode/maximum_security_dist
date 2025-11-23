@@ -9,5 +9,19 @@
     },
     "notes": ""
   },
-  "game_builds": []
+  "game_builds": [
+    {
+      "version": "0.3.1",
+      "label": "Beta Release",
+      "channel": "stable",
+      "recommended": true,
+      "windows": {
+        "url": "https://github.com/arikdcode/maximum_security_dist/releases/download/game-0.3.1/Maximum_Security_V0.3b.1.zip",
+        "sha256": "fd3c6b2e7535d2211202efc065fbf9bb90f8a8a29b996912a45bb46aa1108319",
+        "size_bytes": 55851907,
+        "filename": "Maximum_Security_V0.3b.1.zip"
+      },
+      "changelog": "Initial Game Asset Release"
+    }
+  ]
 }
