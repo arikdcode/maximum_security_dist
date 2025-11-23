@@ -22,6 +22,19 @@
         "filename": "Maximum_Security_V0.3b.1.zip"
       },
       "changelog": "Initial Game Asset Release"
+    },
+    {
+      "version": "0.3b",
+      "label": "Beta Release",
+      "channel": "stable",
+      "recommended": true,
+      "windows": {
+        "url": "https://github.com/arikdcode/maximum_security_dist/releases/download/game-0.3b/Maximum_Security_v0.3b.pk3",
+        "sha256": "82670558d001422acb355b29e8df12334838c395c0376973cba8fde46d35bcf4",
+        "size_bytes": 56923864,
+        "filename": "Maximum_Security_v0.3b.pk3"
+      },
+      "changelog": "Switched to PK3 distribution"
     }
   ]
 }
