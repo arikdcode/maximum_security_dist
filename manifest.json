@@ -35,6 +35,19 @@
         "filename": "Maximum_Security_v0.3b.pk3"
       },
       "changelog": "Switched to PK3 distribution"
+    },
+    {
+      "version": "0.4a",
+      "label": "Alpha 0.4a",
+      "channel": "stable",
+      "recommended": true,
+      "windows": {
+        "url": "https://github.com/arikdcode/maximum_security_dist/releases/download/game-0.4a/Maximum_Security_v0.4a.pk3",
+        "sha256": "ceabc01f9454dadee72d549e11c0257622305beebe12fad03230f700c2e343c0",
+        "size_bytes": 108631039,
+        "filename": "Maximum_Security_v0.4a.pk3"
+      },
+      "changelog": "New version 0.4a release"
     }
   ]
 }
